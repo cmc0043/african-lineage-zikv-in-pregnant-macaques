@@ -6,3 +6,5 @@ These data were used to generate figures in the manuscript and for statistical a
 
 Additional data from non-human primate studies of Zika virus can be found at: https://openresearch.labkey.com/project/ZEST
 
+The data in this manuscript can be found under studies 030 and 044 on the Zikv Open Research Portal.
+
